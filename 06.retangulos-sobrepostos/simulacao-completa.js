@@ -4,14 +4,14 @@ var r1;
 var r2;
 var num_retangulos=100;
 var retangulos;
-var HEIGHT=800;
-var WIDTH=600;
+var HEIGHT=500;
+var WIDTH=500;
 
 function setup() { 
   createCanvas(WIDTH, HEIGHT);
   
-  let altura = 10;
-  let largura = 10;
+  let altura = 30;
+  let largura = 30;
   retangulos = [];
   
   for ( let i=0; i<num_retangulos; i++){
@@ -20,13 +20,21 @@ function setup() {
 }
 
 function draw() {
-  background(220);
-  for (const ret of retangulos){
-     ret.move()
+  new_num_retangulos = parseInt(document.getElementById("slider").value);
+  if ( num_retangulos != new_num_retangulos ){
+        num_retangulos = new_num_retangulos;
+        setup();
+        document.getElementById("num_ret").innerHTML = num_retangulos;
   }
-  for (const ret of retangulos){
-     ret.detect_colision(retangulos);
-     ret.draw();
+  else{
+      background(220);
+      for (const ret of retangulos){
+         ret.move()
+      }
+      for (const ret of retangulos){
+         ret.detect_colision(retangulos);
+         ret.draw();
+      }
   }
 }
 
