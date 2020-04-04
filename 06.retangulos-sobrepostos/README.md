@@ -3,7 +3,7 @@
 Este projeto mostra como identificar quando dois retângulos se sobrepõe.
 A explicação fica clara no video abaixo.
 
-![https://www.youtube.com/watch?v=dGg1a-6bBa4](video.png)
+[![Foo](video.png)](https://www.youtube.com/watch?v=dGg1a-6bBa4)
 
 ## Simulação
 
