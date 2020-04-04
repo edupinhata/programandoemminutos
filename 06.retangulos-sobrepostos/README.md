@@ -7,8 +7,8 @@ A explicação fica clara no video abaixo.
 
 ## Simulação
 
-Entre ![aqui](https://edupinhata.github.io/programandoemminutos/06.retangulos-sobrepostos/) para testar uma simulação completa ou a simulação do vídeo do YouTube.
+Entre [aqui](https://edupinhata.github.io/programandoemminutos/06.retangulos-sobrepostos/) para testar uma simulação completa ou a simulação do vídeo do YouTube.
 
 ## Slides
 
-Os slides usados no video estão disponíveis ![aqui](https://docs.google.com/presentation/d/11BGWyaA-mwbiBN2FyWoymrKsfM67dc-xJTonLxkQWec/edit?usp=sharing).
+Os slides usados no video estão disponíveis [aqui](https://docs.google.com/presentation/d/11BGWyaA-mwbiBN2FyWoymrKsfM67dc-xJTonLxkQWec/edit?usp=sharing).
