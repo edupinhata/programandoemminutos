@@ -1,7 +1,6 @@
 
 # Jogo de Damas
-<img src="tabuleiro.png" width="200" height="200">
-![](tabuleiro.png){:height="50%" width="50%"} 
+<img src="tabuleiro.png" width="300" height="300">
 
 # Introdução
 
