@@ -1,3 +1,5 @@
+![](tabuleiro.png)
+
 # Jogo de Damas
 
 # Introdução
