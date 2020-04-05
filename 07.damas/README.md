@@ -11,7 +11,7 @@ Neste projeto estou fazendo um experimento para testar meus conhecimentos de pro
 
 # Executar
 
-Execute o programa no estado atual neste [link](edupinhata.github.io/proj/programandoemminutos/07.damas/damas-completo.html).
+Execute o programa no estado atual neste [link](https://edupinhata.github.io/programandoemminutos/07.damas/damas-completo.html).
 
 # Análise da implementação
 
