@@ -1,6 +1,6 @@
-![](tabuleiro.png)
 
 # Jogo de Damas
+![](tabuleiro.png =250x)
 
 # Introdução
 
